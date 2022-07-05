@@ -1,0 +1,69 @@
+{
+  "name": "Skullpunks-Ultra #907",
+  "symbol": "SP-UL",
+  "description": "After a bad accident Dr. Bones learns how to fuse mechanical parts with Skullpunks-Ogs to create new being in the ecosystem.",
+  "seller_fee_basis_points": 1000,
+  "image": "907.png",
+  "edition": 907,
+  "collection": {
+    "name": "Skullpunks-Ultra",
+    "family": "Skullpunks-Ultra"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Block"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Purple Axe"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Red Claw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Skull",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skulls"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Hair"
+    },
+    {
+      "trait_type": "Left Leg",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Right Leg",
+      "value": "Until Death"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Bird Power"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "907.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "B4XcheArVGhzEHzdQRDqwGeyUYGZJeLWk4PiCqCVYs65",
+        "share": 100
+      }
+    ]
+  }
+}
